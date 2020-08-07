@@ -3,8 +3,8 @@
     "description": "CLI for resetting user password",
     "type": "library",
     "require": {
-        "php": ">=7.3",
-        "laravel/framework": "^7.10"
+        "php": ">=7",
+        "laravel/framework": "^6.*"
     },
     "autoload": {
         "psr-4": {

@@ -2,7 +2,7 @@
 
 namespace PatrickRiemer\PasswordReset\Console;
 
-use App\User;
+use App\Models\User;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Hash;
 
